@@ -20,5 +20,3 @@ document.addEventListener("click", (e) => {
     e.target.parentElement.remove();
   }
 });
-
-// Did it work?
